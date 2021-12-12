@@ -31,11 +31,12 @@ class MainActivity : AppCompatActivity() {
         checkInternet()
 
         videosList = listOf(
-            Video("Numbers Game", "CiFyTc1SwPw"),
-            Video("Calculator", "ZbZFMDk69IA"),
-            Video("Guess the Phrase", "DU1qMhyKv8g"),
-            Video("Country Capitals", "yBkRLhoVTmc"),
-            Video("GUI Username and Password", "sqJWyPhZkDw"),
+            Video("Attack On Titan", "ZFU-fZfZ0DI"),
+            Video("Jujutsu Kaisen", "dwv65QSdXSU"),
+            Video("Black Clover", "olW99JAV_lA"),
+            Video("Naruto", "ejWo1KHRYTI"),
+            Video("Hunter X Hunter", "aO-ZaF4FJls"),
+            Video("Death Note", "-ZhjiihNfw4"),
         )
 
         rvVideos = findViewById(R.id.rvVideos)
